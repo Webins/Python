@@ -1,2 +1,2 @@
 # Python
-Source coude of [python language with challengues.
+Exercises, practices and challengues from the python language.
